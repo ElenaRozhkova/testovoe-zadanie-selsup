@@ -1,4 +1,3 @@
-import './App.css';
 import ParamEditor from './components/ParamEditor';
 import { Model } from './components/ParamEditor';
 import { Param } from './components/ParamEditor';
